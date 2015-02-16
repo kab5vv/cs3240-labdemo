@@ -3,5 +3,5 @@ __author__ = 'kab5vv'
 # kab5vv
 
 def greeting(msg):
-	print(msg)
+	print(msg, "!")
 
