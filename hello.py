@@ -2,8 +2,6 @@ __author__ = 'kab5vv'
 # Katie Banach
 # kab5vv
 
+import helper
 
-def greeting(msg):
-	print(msg)
-
-greeting("hello")
+helper.greeting("hello")
