@@ -4,4 +4,5 @@ __author__ = 'kab5vv'
 
 import helper
 
-helper.greeting("hello")
+def func(msg):
+	helper.greeting(msg)

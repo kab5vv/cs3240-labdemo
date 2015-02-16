@@ -2,6 +2,6 @@ __author__ = 'kab5vv'
 # Katie Banach
 # kab5vv
 
-def greeting(msg):
-	print(msg, "!")
+import hello
 
+hello.func("hello")
